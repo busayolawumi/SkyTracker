@@ -25,7 +25,7 @@ const App = () => {
             </div>
           </div>
 
-          {/* bottom description */}
+          {/* More weather details*/}
           <Descriptions />
         </div>
        </div>
